@@ -1,4 +1,4 @@
-# simpleeasytransactions-com
+# Simple Easy Transactions
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,164 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-simpleeasytransactions-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://simpleeasytransactions.com/
+Simple Easy Transactions (SET) provides a suite of APIs enabling businesses and platforms to collect, convert, and payout funds across traditional banking rails and stablecoin networks. Their offerings include the SET API for comprehensive payment operations, the SET Crypto API Suite for crypto-specific flows, and the SET Direct Deposit API for seamless bank transfers. SET also offers wallet and cash‑out applications, allowing users to manage stablecoin assets and convert them to fiat. The platform emphasizes compliance, security, and developer-friendly documentation, targeting fintechs, PSPs, and e‑commerce merchants seeking integrated payment solutions.
+
+**Areas:** Payments · Stablecoin · API · Crypto · Direct Deposit
+
+## Simple Easy Transactions on APIs.io
+
+Everything profiled for Simple Easy Transactions is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/simpleeasytransactions-com/](https://apis.io/providers/simpleeasytransactions-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (34)
+
+- [Simple Easy Transactions Accounting API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-accounting-api/) — The Accounting API from Simple Easy Transactions — 4 operation(s) for accounting.
+- [Simple Easy Transactions Analytics API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-analytics-api/) — The Analytics API from Simple Easy Transactions — 4 operation(s) for analytics.
+- [Simple Easy Transactions Assets API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-assets-api/) — The Assets API from Simple Easy Transactions — 2 operation(s) for assets.
+- [Simple Easy Transactions Audit API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-audit-api/) — The Audit API from Simple Easy Transactions — 9 operation(s) for audit.
+- [Simple Easy Transactions Banks API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-banks-api/) — The Banks API from Simple Easy Transactions — 2 operation(s) for banks.
+- [Simple Easy Transactions Card payments API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-card-payments-api/) — The Card payments API from Simple Easy Transactions — 7 operation(s) for card payments.
+- [Simple Easy Transactions Cards API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-cards-api/) — The Cards API from Simple Easy Transactions — 10 operation(s) for cards.
+- [Simple Easy Transactions Cash-Out Addresses API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-cash-out-addresses-api/) — The Cash-Out Addresses API from Simple Easy Transactions — 8 operation(s) for cash-out addresses.
+- [Simple Easy Transactions Close API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-close-api/) — The Close API from Simple Easy Transactions — 29 operation(s) for close.
+- [Simple Easy Transactions Conversion Addresses API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-conversion-addresses-api/) — The Conversion Addresses API from Simple Easy Transactions — 5 operation(s) for conversion addresses.
+- [Simple Easy Transactions COP API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-cop-api/) — The COP API from Simple Easy Transactions — 2 operation(s) for cop.
+- [Simple Easy Transactions Customers API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-customers-api/) — The Customers API from Simple Easy Transactions — 10 operation(s) for customers.
+- [Simple Easy Transactions Escrow API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-escrow-api/) — The Escrow API from Simple Easy Transactions — 13 operation(s) for escrow.
+- [Simple Easy Transactions Events API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-events-api/) — The Events API from Simple Easy Transactions — 11 operation(s) for events.
+- [Simple Easy Transactions Invoices API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-invoices-api/) — The Invoices API from Simple Easy Transactions — 14 operation(s) for invoices.
+- [Simple Easy Transactions Keys API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-keys-api/) — The Keys API from Simple Easy Transactions — 8 operation(s) for keys.
+- [Simple Easy Transactions Metadata API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-metadata-api/) — The Metadata API from Simple Easy Transactions — 1 operation(s) for metadata.
+- [Simple Easy Transactions Onboarding API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-onboarding-api/) — The Onboarding API from Simple Easy Transactions — 4 operation(s) for onboarding.
+- [Simple Easy Transactions Payable Email API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-payable-email-api/) — The Payable Email API from Simple Easy Transactions — 11 operation(s) for payable email.
+- [Simple Easy Transactions Payment references API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-payment-references-api/) — The Payment references API from Simple Easy Transactions — 4 operation(s) for payment references.
+- [Simple Easy Transactions Payouts API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-payouts-api/) — The Payouts API from Simple Easy Transactions — 20 operation(s) for payouts.
+- [Simple Easy Transactions Prefunding API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-prefunding-api/) — The Prefunding API from Simple Easy Transactions — 6 operation(s) for prefunding.
+- [Simple Easy Transactions Reports API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-reports-api/) — The Reports API from Simple Easy Transactions — 10 operation(s) for reports.
+- [Simple Easy Transactions Returns API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-returns-api/) — The Returns API from Simple Easy Transactions — 3 operation(s) for returns.
+- [Simple Easy Transactions Rewards API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-rewards-api/) — The Rewards API from Simple Easy Transactions — 2 operation(s) for rewards.
+- [Simple Easy Transactions Sandbox API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-sandbox-api/) — The Sandbox API from Simple Easy Transactions — 12 operation(s) for sandbox.
+- [Simple Easy Transactions Senders API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-senders-api/) — The Senders API from Simple Easy Transactions — 11 operation(s) for senders.
+- [Simple Easy Transactions Statements API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-statements-api/) — The Statements API from Simple Easy Transactions — 9 operation(s) for statements.
+- [Simple Easy Transactions Static memos API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-static-memos-api/) — The Static memos API from Simple Easy Transactions — 5 operation(s) for static memos.
+- [Simple Easy Transactions Static templates API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-static-templates-api/) — The Static templates API from Simple Easy Transactions — 5 operation(s) for static templates.
+- [Simple Easy Transactions Transfers API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-transfers-api/) — The Transfers API from Simple Easy Transactions — 4 operation(s) for transfers.
+- [Simple Easy Transactions Virtual accounts API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-virtual-accounts-api/) — The Virtual accounts API from Simple Easy Transactions — 7 operation(s) for virtual accounts.
+- [Simple Easy Transactions Wallets API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-wallets-api/) — The Wallets API from Simple Easy Transactions — 13 operation(s) for wallets.
+- [Simple Easy Transactions Ways API](https://apis.io/apis/simpleeasytransactions-com/simpleeasytransactions-com-ways-api/) — The Ways API from Simple Easy Transactions — 2 operation(s) for ways.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Simpleeasytransactions Com Webhooks](https://apis.io/asyncapis/simpleeasytransactions-com/simpleeasytransactions-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Simple Easy Transactions Agentic Access](https://apis.io/agentic-access/simpleeasytransactions-com/simpleeasytransactions-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Capabilities](https://apis.io/schemas/simpleeasytransactions-com/simpleeasytransactions-com-capabilities/)
+- [Escrow](https://apis.io/schemas/simpleeasytransactions-com/simpleeasytransactions-com-escrow/)
+- [EscrowProposal](https://apis.io/schemas/simpleeasytransactions-com/simpleeasytransactions-com-escrow-proposal/)
+- [EscrowSafeBundle](https://apis.io/schemas/simpleeasytransactions-com/simpleeasytransactions-com-escrow-safe-bundle/)
+- [Payout](https://apis.io/schemas/simpleeasytransactions-com/simpleeasytransactions-com-payout/)
+- [WalletRecoveryBundle](https://apis.io/schemas/simpleeasytransactions-com/simpleeasytransactions-com-wallet-recovery-bundle/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Simpleeasytransactions Com Context](https://apis.io/jsonld/simpleeasytransactions-com/simpleeasytransactions-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Simple Easy Transactions API Rules](https://apis.io/rules/simpleeasytransactions-com/simpleeasytransactions-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Simple Easy Transactions Authentication](https://apis.io/security/simpleeasytransactions-com/simpleeasytransactions-com-authentication/)
+- [Simple Easy Transactions Domain Security](https://apis.io/security/simpleeasytransactions-com/simpleeasytransactions-com-domain-security/)
+- [Simple Easy Transactions Vulnerability Disclosure](https://apis.io/security/simpleeasytransactions-com/simpleeasytransactions-com-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://simpleeasytransactions.com/)
+- [Documentation](https://simpleeasytransactions.com/docs/set-api/whats-new-2026-11-10)
+- [Getting started](https://simpleeasytransactions.com/resources/connect-embedded-components-vs-hosted-onboarding)
+- [API reference](https://simpleeasytransactions.com/llms.txt)
+- [Changelog](https://simpleeasytransactions.com/docs/set-api/changelog)
+- [Security](https://simpleeasytransactions.com/docs/security/vulnerability-disclosure)
+- [Terms of service](https://simpleeasytransactions.com/terms)
+- [Privacy policy](https://simpleeasytransactions.com/privacy)
+- [Status](https://simpleeasytransactions.com/status)
+
+## API Evangelist rating
+
+**Kin Score 56.9** — strong · rubric 0.28.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.8 |
+| Contract quality | 69.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 52.4 |
+| Developer ergonomics | 54.0 |
+| Access clarity | 17.0 |
+
+**Agent readiness 50.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 27.7** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/simpleeasytransactions-com/](https://apis.io/providers/simpleeasytransactions-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Simple Easy Transactions: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/simpleeasytransactions-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
